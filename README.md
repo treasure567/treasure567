@@ -33,7 +33,8 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 </summary>
 
 #### Coderank Stats 😅
-![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=treasure567)
+<!-- 
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=treasure567) -->
 
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=treasure567&count_private=true&theme=dark&hide=contribs,issues)
