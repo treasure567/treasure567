@@ -5,12 +5,11 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/eni4sure) [![Linkedin Badge](https://img.shields.io/badge/-Eniola_Osabiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eniola-osabiya/) [![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/eni4sure) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/eni4sure)
+[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/treasuredevops)[![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/treasure_uvietobore) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/treasureuvietobore)
 
-- 👨🏾‍💻 I’m currently working at @MyPD // Remote.
+- 👨🏾‍💻 I’m currently studying at @FUTA.
 - :computer:  Favourite Emoji's: 🙂 🌚 😅
 - 📫  Reach me on: uvietoboretreasure@gmail.com.
-- 👀 Pronouns: He/Him, eni4sure.
 - ⚡ Fun fact: I love fixing bugs :smile:.
 
 #### Top Technologies ⚡️
@@ -21,12 +20,12 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 
 #### Work 💼
 
-- :email: eosabiya@gmail.com
-- Portfolio: https://www.eniolaosabiya.com
+- :email: uvietoboretreasure@gmail.com
+- Portfolio: https:treasureuvietobore.netlify.io
 
 #### Profile Visits 🙈
 
-![visitors](https://komarev.com/ghpvc/?username=eni4sure)
+![Profile Visits](https://komarev.com/ghpvc/?username=treasure567&color=brightgreen)
 
 <details>
 <summary>
@@ -34,12 +33,12 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 </summary>
 
 #### Coderank Stats 😅
-![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=eni4sure)
+![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=treasure567)
 
 #### Github Stats 😁
-![Github stats](https://github-readme-stats.vercel.app/api?username=eni4sure&count_private=true&theme=dark&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=treasure567&count_private=true&theme=dark&hide=contribs,issues)
   
 #### Wakatime Stats 🚶🏾‍♂️ 
-![Wakatime Stats](https://wakatime.com/share/@f05dbbcc-977a-4174-affa-e3903e02de84/76eff073-16c2-4bc8-a571-83bcfa6614ba.svg)
+![Wakatime Stats](https://wakatime.com/share/@treasure567/d49e5f83-6099-4228-8f50-b59860ec0863.svg)
 
 </details>
