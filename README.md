@@ -21,7 +21,7 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 #### Work 💼
 
 - :email: uvietoboretreasure@gmail.com
-- Portfolio: https:treasureuvietobore.netlify.io
+- Portfolio: https://treasureuvietobore.netlify.io
 
 #### Profile Visits 🙈
 
@@ -31,9 +31,8 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 <summary>
   More stuffs 🌚
 </summary>
-
-#### Coderank Stats 😅
-<!-- 
+<!--
+#### Coderank Stats 😅 
 ![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=treasure567) -->
 
 #### Github Stats 😁
