@@ -5,7 +5,7 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@eni4sure-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/treasuredevops)[![Instagram Badge](https://img.shields.io/badge/-@eni4sure-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/treasure_uvietobore) [![Facebook Badge](https://img.shields.io/badge/-@eni4sure-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/treasureuvietobore)
+[![Twitter Badge](https://img.shields.io/badge/-@treasuredevops-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/treasuredevops)[![Instagram Badge](https://img.shields.io/badge/-@treasureuvietobore-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/treasure_uvietobore) [![Facebook Badge](https://img.shields.io/badge/-@treasureuvietobore-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/treasureuvietobore)
 
 - 👨🏾‍💻 I’m currently studying at @FUTA.
 - :computer:  Favourite Emoji's: 🙂 🌚 😅
