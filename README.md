@@ -46,6 +46,8 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
   
 
 #### Wakatime Stats 🚶🏾‍♂️ 
+[![Treasure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=treasure567&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Wakatime Stats](https://wakatime.com/share/@treasure567/d49e5f83-6099-4228-8f50-b59860ec0863.svg)
 
 <!-- </details> -->
