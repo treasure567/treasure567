@@ -39,6 +39,9 @@ I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years
 
 #### Github Stats 😁
 ![Github stats](https://github-readme-stats.vercel.app/api?username=treasure567&count_private=true&theme=dark&hide=contribs,issues)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=treasure567&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
   
 #### Wakatime Stats 🚶🏾‍♂️ 
 ![Wakatime Stats](https://wakatime.com/share/@treasure567/d49e5f83-6099-4228-8f50-b59860ec0863.svg)
