@@ -40,7 +40,7 @@ Click Here For More stuffs 🌚
 ![Coderank Stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=treasure567) -->
 
 #### Github Stats 😁
-![Github stats](https://github-readme-stats.vercel.app/api?username=treasure567&count_private=true&theme=dark&hide=contribs,issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=treasure567&count_private=true&theme=solarized-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=treasure567&show_icons=true&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
