@@ -1,13 +1,13 @@
 
 ## Hello, I'm Treasure Uvietobore  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28px" alt="hi">
 
-I'm Treasure Uvietobore a 17yrs Old Full Stack Developer (BE-Heavy) with 4 years of building experience. I'm a Great \*Debugger\* and \*Logic\* Expert. 
+I'm Treasure Uvietobore a 18yrs Old Full Stack Developer (BE-Heavy) with 4 years of building experience. I'm a Great \*Debugger\* and \*Logic\* Expert. 
 
 :mailbox: Looking for me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@treasuredevops-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/treasuredevops)[![Instagram Badge](https://img.shields.io/badge/-@treasureuvietobore-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/treasure_uvietobore) [![Facebook Badge](https://img.shields.io/badge/-@treasureuvietobore-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://facebook.com/treasureuvietobore)
 
-- 👨🏾‍💻 I’m currently studying at @FUTA.
+- 👨🏾‍💻 I’m currently studying at @UNILAG.
 - :computer:  Favourite Emoji's: 🙂 🌚 😅
 - 📫  Reach me on: uvietoboretreasure@gmail.com.
 - ⚡ Fun fact: I love fixing bugs :smile:.
